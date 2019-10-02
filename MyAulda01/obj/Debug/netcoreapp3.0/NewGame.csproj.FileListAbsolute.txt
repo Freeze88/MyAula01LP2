@@ -1,0 +1,11 @@
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\bin\Debug\netcoreapp3.0\NewGame.exe
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\bin\Debug\netcoreapp3.0\NewGame.deps.json
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\bin\Debug\netcoreapp3.0\NewGame.runtimeconfig.json
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\bin\Debug\netcoreapp3.0\NewGame.runtimeconfig.dev.json
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\bin\Debug\netcoreapp3.0\NewGame.dll
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\bin\Debug\netcoreapp3.0\NewGame.pdb
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\obj\Debug\netcoreapp3.0\NewGame.csprojAssemblyReference.cache
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\obj\Debug\netcoreapp3.0\NewGame.AssemblyInfoInputs.cache
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\obj\Debug\netcoreapp3.0\NewGame.AssemblyInfo.cs
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\obj\Debug\netcoreapp3.0\NewGame.dll
+C:\Users\Freeze\source\repos\MyAulda01\MyAulda01\obj\Debug\netcoreapp3.0\NewGame.pdb
